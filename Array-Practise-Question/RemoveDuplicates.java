@@ -47,7 +47,6 @@ public class RemoveDuplicates {
             array[i] = scanner.nextInt();
         }
 
-
         int newLength = removeDuplicate(array);
 
         System.out.print("Array after removing duplicate elements (Unique Elements): ");
