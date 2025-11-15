@@ -1,0 +1,10 @@
+# Ignore all compiled class files
+*.class
+
+# Ignore VS Code configs
+.vscode/
+
+# Ignore other build junk
+bin/
+out/
+
